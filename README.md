@@ -1,16 +1,16 @@
-## Hi there 👋
+# Buwen Yu | 俞卜文
 
-<!--
-**CelesteeeShy/CelesteeeShy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study General Artificial Intelligence at Yuanpei College,
+Peking University.
 
-Here are some ideas to get you started:
+- **Affiliation:** Yuanpei College, Peking University
+- **Field of study:** General Artificial Intelligence
+- **Research interests:** Embodied Intelligence, Reinforcement Learning
+- **Email:** 2042438052@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+我就读于北京大学元培学院，专业为通用人工智能。
+研究兴趣包括具身智能与强化学习。
+
+联系邮箱：2042438052@qq.com
